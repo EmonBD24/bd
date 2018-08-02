@@ -1,7 +1,13 @@
 
 p{font-weight: bold;color: rgb(255, 0, 0)}
 
-
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
 
 
 
